@@ -22,7 +22,7 @@
                     data-slideelement-options='{ "visibleElement": ".fancy-box-header", "hiddenElement": ".fancy-box-info" }'>
 
                         <figure class="fancy-box-image" data-responsive-bg="true">
-                            <img width="1550" height="1000" src="/assets/img/des/{{ Request::path() }}/{{ $key[0] }}.jpg" alt="Italy & Sicily" />
+                            <img width="1550" height="1000" @php $mainPoint @endphp '.assets/img/des/{{ Request::path() }}/{{ $key[0] }}.jpg" alt="Italy & Sicily" />
                         </figure>
 
                         <div class="fancy-box-contents">

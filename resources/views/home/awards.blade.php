@@ -18,7 +18,7 @@
     align-items: center;">
     @foreach(range(4,9) as $key)
             <div class="lqd-column col-md-2 mb-1">
-                <img src="/assets/img/awards/{{ $key }}.png"/>
+                <img src="{{ asset($mainPoint ..assets/img/awards/{{ $key }}.png"/>
             </div><!-- /.lqd-column col-md-4 -->
           
 @endforeach

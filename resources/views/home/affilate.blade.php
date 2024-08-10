@@ -20,10 +20,10 @@
                     @foreach($array as $key)
                             <div class="lqd-column col-md-2 mb-1">
                             <center>
-                              @if($key=="logo-a2")
-                                <img src="/assets/img/logos/{{ $key }}.png" style="width: 65%;margin-left: 25px;"/>
+                                @if($key == "logo-a2")
+                                <img src="{{ asset($mainPoint . 'assets/img/logos/' . $key . '.png') }}" style="width: 65%; margin-left: 25px;" />
                             @else
-                                <img src="/assets/img/logos/{{ $key }}.png" />
+                                <img src="{{ asset($mainPoint . 'assets/img/logos/' . $key . '.png') }}" style="width: 65%; margin-left: 25px;" />
                             @endif
                             </center>
                           
