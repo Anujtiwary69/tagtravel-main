@@ -16,7 +16,7 @@
     @include('home.mice',['top'=>$top,'offers'=>$offers])
     @include('home.des',['des'=>$des])
     @include('home.facts')
-     @include('home.affilate')
+     {{-- @include('home.affilate') --}}
     {{-- @include('home.awards') --}}
 {{--    @include('home.live',['data'=>$data])--}}
 @endsection
