@@ -237,11 +237,12 @@ class PageController extends Controller
                 $otherPage = true;
             break;
         }
+        $mainPoint = config('app.env') === 'production' ? '/public/' : '/';
         if($otherPage){
             return view('other-page',['menu'=>$this->menu,'uri'=>$uri,'data'=>$data]);
         }
         else{
-            return view('page',['menu'=>$this->menu,'top'=>$top,'offers'=>$offers,'des'=>$des,'top_att'=>$top_att,'central_asia'=>$central_asia,'middle_east'=>$middle_east,'europe'=>$europe,'asia'=>$asia,'uri'=>$uri,'data'=>$data ?? array()]);
+            return view('page',['menu'=>$this->menu,'top'=>$top,'offers'=>$offers,'des'=>$des,'top_att'=>$top_att,'central_asia'=>$central_asia,'mainPoint'=> $mainPoint,'middle_east'=>$middle_east,'europe'=>$europe,'asia'=>$asia,'uri'=>$uri,'data'=>$data ?? array()]);
         }
        
     }

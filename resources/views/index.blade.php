@@ -1,7 +1,9 @@
 @extends('layouts.app')
-
+@php
+    $mainPoint = config('app.env') === 'production' ? '/public/' : '/';
+@endphp
 @section('content')
-    @include('layouts.main_slider')
+    @include('layouts.main_slider',['mainPoint' => $mainPoint])
     <div class="PageBooking">
         @include('layouts.booking')
     </div>

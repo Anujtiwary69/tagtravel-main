@@ -1,7 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-  @include('page.default-slider',['slider'=>$uri])
+@php
+    $mainPoint = config('app.env') === 'production' ? '/public/' : '/';
+@endphp
+  @include('page.default-slider',['slider'=>$uri,'mainPoint'=>$mainPoint])
   @include('layouts.booking')
   <section class="vc_row">
     <div class="container">

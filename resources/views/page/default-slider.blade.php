@@ -20,6 +20,9 @@
 
 
 			</section> --}}
+			@php
+    $mainPoint = config('app.env') === 'production' ? '/public/' : '/';
+@endphp
 
 			<section>
 				<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">

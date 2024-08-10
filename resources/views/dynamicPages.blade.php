@@ -1,6 +1,10 @@
 @extends('layouts.app')
+@extends('layouts.app')
+@php
+    		$mainPoint = config('app.env') === 'production' ? '/public/' : '/';
+		@endphp
 @section('content')
-    @include('page.default-slider',['slider'=>$data['content']->img])
+    @include('page.default-slider',['slider'=>$data['content']->img,'mainPoint'=>$mainPoint])
     @include('layouts.booking')
     @if(!$data['content']->subpage)
     <section class="vc_row">

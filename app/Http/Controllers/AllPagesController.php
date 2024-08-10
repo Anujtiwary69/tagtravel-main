@@ -13,9 +13,8 @@ class AllPagesController extends Controller
         if($data['content']->subpage){
             $data['subpage'] = DB::table('subpage')->where('page_id',$data['content']->id)->get();
         }
-
-
-       return view('dynamicPages',['data'=>$data,'menu'=>$this->menu]);
+        $mainPoint = config('app.env') === 'production' ? '/public/' : '/';
+       return view('dynamicPages',['data'=>$data,'menu'=>$this->menu,]);
        
 
     //    try{
