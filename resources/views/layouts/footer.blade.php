@@ -26,7 +26,7 @@ ion-icon {
                         <li class="mb-1"><a href="#"  class="mb-1 text-white"><i class="fa fa-envelope"></i>&nbsp;
 
                             CESC@grandchortoqresort.com</a></li>
-                        <li class="mb-1" style="    display: inline-flex;">  <a href="https://www.facebook.com/">
+                        {{-- <li class="mb-1" style="    display: inline-flex;">  <a href="https://www.facebook.com/">
                         <i class="fa fa-facebook text-white" style="font-size:20px"></i></a> 
                             &nbsp;&nbsp;
                             <a href="https://www.instagram.com/">
@@ -42,7 +42,7 @@ ion-icon {
                             <i class="fa fa-telegram text-white" style="font-size:20px"></i>
                             </a>
                             {{-- &nbsp;&nbsp;<span class="text-white">/tagtravels</span> --}}
-                        </li>
+                        {{-- </li> --}}
                     </ul>
 
                 </div><!-- /.col-md-2 -->

@@ -16,7 +16,7 @@
     vertical-align: middle;
     justify-content: center;
     align-items: center;">
-                   @php $array = array('logo-a2','logo-a1','logo-a3-1','logo-a5','logo-a6') @endphp
+                   @php $array = array('logo-a2','logo-a1','logo-a3-1') @endphp
                     @foreach($array as $key)
                             <div class="lqd-column col-md-2 mb-1">
                             <center>

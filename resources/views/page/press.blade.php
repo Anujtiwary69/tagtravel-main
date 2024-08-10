@@ -16,7 +16,12 @@
             <div class="row">
                 <div class="lqd-column col-md-12">
                     <div class="liquid-blog-posts">
-                        <div class="liquid-blog-grid row">
+                        <p class="text-dark" style="line-height:1">
+                            Welcome to the Chortoq Travels press hub, your gateway to the latest news, updates, and insights from our journey of creating unforgettable travel experiences. Here, you’ll find press releases, media resources, and stories that showcase our commitment to exploring the world with excellence and innovation.
+
+
+                        </p>
+                        {{-- <div class="liquid-blog-grid row">
                             @foreach($data['press'] as $key)
                             <a href="/press/view/{{ str_replace(' ','-',$key->name) }}">
                                 <div class="lqd-column col-md-3">
@@ -44,7 +49,7 @@
                             </a>
                             @endforeach
 
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>

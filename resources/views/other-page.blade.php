@@ -19,6 +19,8 @@
                     <h3 class="text-uppercase mt-0 mb-1" align="center">Shah-i-Zinda in Samarkand </h3>
                 @elseif($uri=="Tosh-Hovli-Palace-in-Khiva")
                     <h3 class="text-uppercase mt-0 mb-1" align="center">Tosh-Hovli Palace in Khiva  </h3>
+                @elseif($uri=="why-tag-travels")
+                <h3 class="text-uppercase mt-0 mb-1" align="center">Why Chortoq Travels</h3>
                 @else
                     <h3 class="text-uppercase mt-0 mb-1" align="center">{{ ucwords(str_replace('-',' ',$uri)) }}</h3>
                 @endif
@@ -78,8 +80,8 @@ form_main {
     width: 100%;
 }
 .txt2[type="submit"] {
-    background: #242424 none repeat scroll 0 0;
-    border: 1px solid #4f5c04;
+    background: #dd3870 none repeat scroll 0 0;
+    border: 1px solid #dd3870;
     border-radius: 25px;
     color: #fff;
     font-size: 16px;
