@@ -55,7 +55,7 @@
                                     <br /> <strong>Madrasah
                                         Kukeldash</strong>&nbsp;- The builder of the Madrasah was a vezir of the Tashkent khans (1551-1575), called Kukeldash ("the foster-brother of the khan").
                                     <br /> Overnight in Tashkent.</p>
-                                <img src="{{asset('/assets/img/grand/1.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/1.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -75,7 +75,7 @@
                                 <p>After early breakfast transfer to the airport for morning flight to&nbsp;Nukus. Arrival, transfer and hotel accommodation.<br /> Visit the&nbsp;Karakalpakstan State Museum of Art named after I.V. Savitsky&nbsp;&ndash; &ldquo;Museum
                                     in the desert&rdquo;.
                                     <br /> Free time.<br /> Overnight in Nukus.</p>
-                                <img src="{{asset('/assets/img/grand/2.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/2.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -103,7 +103,7 @@
                                         Sea</strong>. Have a walk (1 hour) from the camping ground to the nearby
                                     <strong>&nbsp;Kurgancha-Kala</strong>&nbsp;&ndash; an old caravan sarai hidden in the hills of the Usturt. Set up the tent. Dinner.</p>
                                 <p><strong>Overnight in the tent.</strong></p>
-                                <img src="{{asset('/assets/img/grand/3.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/3.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -127,7 +127,7 @@
                                 <p>Lunch at the Guest house in Moinak. Visit the Ships&rsquo; Graveyard, local museum, watch the short video about Moinak life at the museum. Drive to Khodjeli city to visit&nbsp;
                                     <strong>Mizdak-khan architectural complex&nbsp;</strong>of the XIV c. and&nbsp;
                                     <strong>Gaur kala&nbsp;</strong>ruin that was destroyed by Shingiz-khan. Arrival in Nukus around 5 p.m.&nbsp; Overnight in Nukus.</p>
-                                <img src="{{asset('/assets/img/grand/4.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/4.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -152,7 +152,7 @@
                                 <p>Continue driving to Khiva.</p>
                                 <p>Arrival and hotel accommodation.</p>
                                 <p>Overnight in Khiva.</p>
-                                <img src="{{asset('/assets/img/grand/5.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/5.jpg')}}" />
                             </li>
 
                             <li>
@@ -180,7 +180,7 @@
                                     is a typically archaic mosque with a flat ceiling on columns which has no analogue in Central Asia.<br />
                                     <strong>Ak-Mosque</strong>&nbsp;("White Mosque") was built at Anush-khan (1663-1687) in the middle of the 17<sup>th</sup>&nbsp;century.This is a small quarter mosque next to the gates of Palvan-darvaza. The winter building
                                     with prayer hall has a white conical dome.<br /> Overnight in Khiva.</p>
-                                <img src="{{asset('/assets/img/grand/6.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/6.jpg')}}" />
                             </li>
 
                             <li>
@@ -204,7 +204,7 @@
                                     <strong>Bukhara&nbsp;</strong>and hotel accommodation. Free time.</p>
                                 <p><strong>Overnight</strong> <strong>in</strong>
                                     <strong>Bukhara</strong><strong>.</strong></p>
-                                <img src="{{asset('/assets/img/grand/7.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/7.jpg')}}" />
                             </li>
 
                             <li>
@@ -233,7 +233,7 @@
                                         Ensemble </strong>(Madrasah and Minaret)&nbsp;- It is the main ensemble in Bukhara center, situated on the way to trade crossing of "four bazars" and Poi-Kalyan means &ldquo;the pedestal of the Great&rdquo;.
                                     <br /> <strong>Trading</strong><strong>
                                         domes</strong><strong>.</strong><br /> Overnight in Bukhara.</p>
-                                <img src="{{asset('/assets/img/grand/8.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/8.jpg')}}" />
                             </li>
 
                             <li>
@@ -257,7 +257,7 @@
                                     <br /> <strong>Memorial complex of Bahouddin Naqshbandi</strong>&nbsp;- The complex of the great theologian of the XIV century, the founder of the Sufi order "Naqshbandiya" - Bahouddina Naqshbandi.</p>
                                 <p>Free time.</p>
                                 <p><strong>Overnight in Bukhara.</strong></p>
-                                <img src="{{asset('/assets/img/grand/9.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/9.jpg')}}" />
                             </li>
 
 
@@ -278,7 +278,7 @@
                                 </h3>
                                 <p>Breakfast at the hotel.<br /> Transfer to&nbsp;Nurata&nbsp;(250 km). Arrival at a yurt camp. You&rsquo;ll have a free time for camel ridding and walking to Aydarkul lake after lunch.<br /> You will enjoy a beautiful night
                                     sky full of stars near the campfire while Akin sings folk songs.<br /> Overnight in the desert.</p>
-                                <img src="{{asset('/assets/img/grand/10.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/10.jpg')}}" />
                             </li>
 
                             <li>
@@ -297,7 +297,7 @@
                                     </div> Nurata – Samarkand
                                 </h3>
                                 <p>Breakfast at the yurt camp.<br /> Transfer to&nbsp;Samarkand&nbsp;(250 km). On the way you can see&nbsp;unique petroglyphs. &nbsp;<br /> Arrival and hotel accommodation. Free time.<br /> Overnight in Samarkand.</p>
-                                <img src="{{asset('/assets/img/grand/11.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/11.jpg')}}" />
                             </li>
 
                             <li>
@@ -325,7 +325,7 @@
                                 <p><strong>Observatory of Ulugbeg</strong>&nbsp;- The largest observatory in Central Asia was built in the 1420's by Ulugbeg. Here, for three decades, scholars, outstanding astronomers performed measurements of celestial movements.<br
                                     />
                                     <strong>Overnight in Samarkand.</strong></p>
-                                <img src="{{asset('/assets/img/grand/12.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/12.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -352,7 +352,7 @@
                                     says that there are the relics of Daniyol (or Danier), an associate of the Arab preacher Kussama ibn Abbas. But all versions agree that Danier is the Saint and pilgrims from all the three world religions come here to
                                     worship him.<strong><br /> Overnight in
                                         Samarkand.</strong></p>
-                                <img src="{{asset('/assets/img/grand/13.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/13.jpg')}}" />
                             </li>
 
                             <li>
@@ -378,7 +378,7 @@
                                 <p><strong>Khazrati-lmom Mosque</strong><br /> Dor-us-Saodat complex arose after the death of the eldest son of Amir Temur, Jahangir (1376).</p>
                                 <p><strong>Ok-Saroy (XIV-XV cc.)</strong>. Outstanding monument of the epoch of Tamerlane and Temurids.&nbsp; Oksaroy was built on the orders of Tamerlane.</p>
                                 <p><strong>Overnight in Shakhrisabz.</strong></p>
-                                <img src="{{asset('/assets/img/grand/14.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/14.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -403,7 +403,7 @@
                                     and hanagoh, built on the perimeter of an elongated courtyard with a combination of integral and short compositions.
                                     <br /> <strong>Overnight</strong> <strong>in</strong>
                                     <strong>Termez</strong><strong>.</strong></p>
-                                <img src="{{asset('/assets/img/grand/15.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/15.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -428,7 +428,7 @@
                                 <p><strong>Al Hakim At-Termizi Mausoleum</strong>&nbsp;- is the main holy place of Termez,, also known as Muhammad ibn `Isa at-Tirmidhi. This architectural monument was built to the north-west of the old Termez castle.<br
                                     /> Transfer to the airport for evening flight to Tashkent.</p>
                                 <p>Arrival and hotel accommodation.<br /> Overnight in Tashkent.</p>
-                                <img src="{{asset('/assets/img/grand/16.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/16.jpg')}}" />
                             </li>
 
                             <li>
@@ -454,7 +454,7 @@
                                 <p><strong>Jami Mosque.</strong><br /> Driving to Fergana city (80 km). On the way visit ceramics workshops in Rishtan.</p>
                                 <p>Check in to the hotel.</p>
                                 <p><strong>Overnight</strong> <strong>in</strong> <strong>Fergana</strong><strong>.</strong></p>
-                                <img src="{{asset('/assets/img/grand/17.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/17.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -473,7 +473,7 @@
                                 </h3>
                                 <p>Breakfast at the hotel.<br /> Drive to&nbsp;<strong>Margilan</strong>&nbsp;visit&nbsp;<strong>Yodgorlik</strong> Silk factory&nbsp;where you can see the production process of silk with traditional Ikat patterns.<br /> Drive
                                     to Tashkent through the&nbsp;mountain pass Kamchik&nbsp;by cars (355 km/ 5-6 hrs).&nbsp;<br /> Arrival and hotel accommodation.<br /> Overnight in Tashkent.</p>
-                                <img src="{{asset('/assets/img/grand/18.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/18.jpg')}}" />
                             </li>
 
                             <li>
@@ -495,7 +495,7 @@
                                 <p><strong>Sightseeing tour:</strong><strong><br /> Museum of Applied Art</strong>&nbsp;- History of Museum of Applied Art of Uzbekistan dates back to 1927, when the first exhibition of artworks by artists of Uzbekistan was
                                     held here.</p>
                                 <p><strong>Chorsu bazaar&nbsp;</strong><strong>- </strong>traditional Uzbek bazaar, where you can find a lot of souvenirs, national clothes and fruits. &nbsp;<br /> Overnight in Tashkent.</p>
-                                <img src="{{asset('/assets/img/grand/19.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/19.jpg')}}" />
                             </li>
 
                             <li>
@@ -514,7 +514,7 @@
                                     </div>Tashkent
                                 </h3>
                                 <p><strong>Breakfast at the hotel.<br /> Transfer to the airport.</strong></p>
-                                <img src="{{asset('/assets/img/grand/20.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/grand/20.jpg')}}" />
                             </li>
                         </ul>
                     </div>

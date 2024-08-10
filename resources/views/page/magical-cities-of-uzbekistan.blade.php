@@ -50,7 +50,7 @@
                                 <p class="p1 mb-0"><strong>Overnight in Tashkent.</strong></p>
 
 
-                                <img src="{{asset('/assets/img/megical/1.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/1.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -74,7 +74,7 @@
                                 <p><strong>Lyabi Khauz ensemble</strong>&nbsp;- Architectual ensemble Lyabi-Khauz is formed with three large monumental buildings: Kukeldash Madrasah in the north, Khanaka and Nodir Divan-begi in the west and in the east.
                                     The center of old Bukhara ensemble became a reservoir.)<br /> <strong>Poi-Kalyan Ensemble </strong>(Madrasah and Minaret)&nbsp;- It is the main ensemble in Bukhara center, situated on the way to trade crossing of "four
                                     bazars" and Poi-Kalyan means &ldquo;the pedestal of the Great&rdquo;.<br /> <strong>Trading</strong><strong> domes</strong><strong>.</strong><br /> Overnight in Bukhara.</p>
-                                <img src="{{asset('/assets/img/megical/2.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/2.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -94,7 +94,7 @@
                                 <p>After early breakfast we will drive to the airport for morning flight to&nbsp;
                                     <strong>Nukus</strong>.&nbsp;<br />Visit the&nbsp;<strong>Karakalpakstan
                                         State Museum of Art named after I.V. Savitsky</strong>&nbsp;&ndash; &ldquo;Museum in the desert&rdquo;. &nbsp;<br />Drive to Khiva (200 km). Arrival to Khiva, hotel accommodation. &nbsp;<br />Overnight in Khiva.</p>
-                                <img src="{{asset('/assets/img/megical/3.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/3.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -126,7 +126,7 @@
                                 <p><strong>Islam Khodja Ensemble</strong> consisting of the smallest madrasah and the tallest minaret of Khiva, ascending in its form to the ancient minarets of the XI-XII centuries.</p>
                                 <p><strong>Madrasah of Khurdjum and Allakuli-Khan. &nbsp;</strong></p>
                                 <p>Overnight in Khiva.</p>
-                                <img src="{{asset('/assets/img/megical/4.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/4.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -147,7 +147,7 @@
                                     <strong>Toprak-Kala</strong>&nbsp;- ancient settlement which was the capital of Khorezm in the III century AD.</p>
                                 <p>Then we&rsquo;ll visit one of the largest fortresses of Ancient Khorezm &ndash;&nbsp;
                                     <strong>Ayaz-Kala</strong>, II century AD, relevant to the period of Kushan Empire prosperity. Return to Khiva. Overnight in Khiva.</p>
-                                <img src="{{asset('/assets/img/megical/5.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/5.jpg')}}" />
                             </li>
 
                             <li>
@@ -166,7 +166,7 @@
                                     </div>Khiva – Bukhara
                                 </h3>
                                 <p>After breakfast we will drive to Bukhara via Kyzyl-Kum desert (480 km. 6-7 hrs.) On the way stop to see Amu-Darya river. Continue driving. Arrival to Bukhara and hotel accommodation. Free time. Overnight in Bukhara.</p>
-                                <img src="{{asset('/assets/img/megical/6.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/6.jpg')}}" />
                             </li>
 
                             <li>
@@ -193,7 +193,7 @@
                                     bazars" and Poi-Kalyan means &ldquo;the pedestal of the Great&rdquo;.
                                     <br /> <strong>Trading</strong><strong>
                                         domes</strong><strong>.</strong><br /> Overnight in Bukhara.</p>
-                                <img src="{{asset('/assets/img/megical/7.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/7.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -214,7 +214,7 @@
                                     - Ancient graves of Juibar sheikhs.&nbsp; The Chor-Bakr Necropolis, also called the city of the dead.<br /> <strong>Memorial complex of Bahouddin Naqshbandi</strong>&nbsp;- The complex of the great theologian of the
                                     XIV century, the founder of the Sufi order "Naqshbandiya" - Bahouddina Naqshbandi.<br /> Free time.</p>
                                 <p><strong>Overnight</strong> <strong>in</strong> <strong>Bukhara</strong><strong>.</strong></p>
-                                <img src="{{asset('/assets/img/megical/8.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/8.jpg')}}" />
                             </li>
 
                             <li>
@@ -234,7 +234,7 @@
                                 </h3>
                                 <p>Transfer to Samarkand (270 km). On the way stop in Gijduvan city. Visit ceramic workshop. Continue driving. Arrival to Samarkand and hotel accommodation. Overnight in Samarkand.
                                 </p>
-                                <img src="{{asset('/assets/img/megical/9.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/9.jpg')}}" />
                             </li>
 
                             <li>
@@ -259,7 +259,7 @@
                                     centre of oriental sweets.</p>
                                 <p><strong>Observatory of Ulugbeg</strong>&nbsp;- The largest observatory in Central Asia was built in the 1420's by Ulugbeg. Here, for three decades, scholars, outstanding astronomers performed measurements of celestial movements.<br
                                     /> <strong>Overnight in Samarkand.</strong></p>
-                                <img src="{{asset('/assets/img/megical/10.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/10.jpg')}}" />
                             </li>
 
                             <li>
@@ -287,7 +287,7 @@
                                     himself, who greatly appreciated the scholarship of the old man and listened to his advice.</p>
                                 <p>Return to Samarkand (90km/2hrs).</p>
                                 <p>Overnight in Samarkand.</p>
-                                <img src="{{asset('/assets/img/megical/11.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/11.jpg')}}" />
                             </li>
 
                             <li>
@@ -309,7 +309,7 @@
                                 <p>Check-out from the hotel. Drive to the village near Samarkand has the&nbsp;<strong>&ldquo;Meros&rdquo; paper mill</strong>. You will see all process of making the silk paper.&nbsp;</p>
                                 <p>Visit <strong>Shakhi Zinda necropolis</strong>- unique architectural monuments,&nbsp;<strong>Mausoleum of St. Daniel</strong>.</p>
                                 <p>Transfer to railway station, departure to Tashkent by&nbsp;<strong>high-speed train &ldquo;Afrosiab&rdquo;&nbsp;</strong>at 05.00 p.m. Arrival at 07.10 p.m. Transfer and hotel accommodation. &nbsp;Overnight in Tashkent.</p>
-                                <img src="{{asset('/assets/img/megical/12.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/12.jpg')}}" />
                             </li>
 
                             <li>
@@ -328,7 +328,7 @@
                                     </div>Tashkent
                                 </h3>
                                 <p>Breakfast at the hotel. Transfer to the airport.</p>
-                                <img src="{{asset('/assets/img/megical/13.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/megical/13.jpg')}}" />
                             </li>
 
                         </ul>

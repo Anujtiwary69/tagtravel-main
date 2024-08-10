@@ -8,9 +8,9 @@
                 <div class="fancy-box content-box-heading-sm fancy-box-tour">
                     <figure class="fancy-box-image loaded">
                      @if($key->custom_url)
-                       <img width="564" height="500" src="{{asset('/assets/img/'.$key->img.'.jpg')}}" alt="{{ $key->name }}">
+                       <img width="564" height="500" src="{{asset($mainPoint.'assets/img/'.$key->img.'.jpg')}}" alt="{{ $key->name }}">
                      @else
-                       <img width="564" height="500" src="{{asset('/assets/img/'.$path.'/'.$key->img.'.jpg')}}" alt="{{ $key->name }}">
+                       <img width="564" height="500" src="{{asset($mainPoint.'assets/img/'.$path.'/'.$key->img.'.jpg')}}" alt="{{ $key->name }}">
                      @endif
                       
                     </figure>

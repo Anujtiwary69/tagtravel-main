@@ -27,7 +27,7 @@
                 <a href="/tour-detail/{{ $key->id }}">
                 <div class="fancy-box content-box-heading-sm fancy-box-tour">
                     <figure class="fancy-box-image loaded">
-                        <img width="564" height="500" src="{{asset('/assets/img/transform/'.$key->img.'.jpg')}}" alt="Embrace The Wonders Of Japan 2017 Tour">
+                        <img width="564" height="500" src="{{asset($mainPoint.'assets/img/transform/'.$key->img.'.jpg')}}" alt="Embrace The Wonders Of Japan 2017 Tour">
                     </figure>
                     <div class="fancy-box-contents mt-0 pt-1">
                         <div class="fancy-box-header">

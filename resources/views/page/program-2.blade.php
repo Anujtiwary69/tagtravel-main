@@ -62,7 +62,7 @@
 
                                         </p>
 
-                                        <img src="{{asset('/assets/img/extreme/program-2.jpg')}}" />
+                                        <img src="{{asset($mainPoint.'assets/img/extreme/program-2.jpg')}}" />
                                     </li>
                                     <li>
                                         <h3>
@@ -89,7 +89,7 @@
 
 
 
-                                        <img src="{{asset('/assets/img/extreme/program-2-2.jpg')}}" />
+                                        <img src="{{asset($mainPoint.'assets/img/extreme/program-2-2.jpg')}}" />
                                     </li>
                                     <li>
                                         <h3>
@@ -115,7 +115,7 @@
 
 
 
-                                        <!-- <img src="{{asset('/assets/img/extreme/program-1-1.jpg')}}" /> -->
+                                        <!-- <img src="{{asset($mainPoint.'assets/img/extreme/program-1-1.jpg')}}" /> -->
                                     </li>
 
                                 </ul>

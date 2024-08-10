@@ -53,7 +53,7 @@
                                    <p class="mb-2">Departure from Nukus at 8 o’clock in the morning to discover the Ustyurt Plateau and Aral sea life. Pass via Kungrad town – which was used to be one of the trading centers during the Silk Road period. Our way passes via the Usturt Plateau. On the way we stop at the Lake Sudochie, visit the ancient Light House hill. Then you can visit the abandoned settlement of the Russian and Polish people who were repressed during the Stalin regimen. You can see the ruins of the hospital, cane houses and old Fish Factory. As well you can talk with fishermen, who currently do the fishing. Our way continue to the village Kubla Ustyurt. There you can see the emergency airport of the Gas Compression Station. You can talk with locals. Take pictures of the camels and taste camel milk (Shubat). Then we drive towards the Aral sea 50 km. Arrive at the Aral Sea. Have a walk on the sea shore and swim if the weather is fine. Have Dinner and stay overnight at the Nomads Yurt Camp. 
 </p>
                                  
-                                   <img src="{{asset('/assets/img/extreme/program-1.jpg')}}"/>
+                                   <img src="{{asset($mainPoint.'assets/img/extreme/program-1.jpg')}}"/>
                                 </li>
                                 <li>
                                     <h3>
@@ -74,7 +74,7 @@
                                    
                                     
                                     {{-- <p class="mb-0">Overnight in Tashkent</p> --}}
-                                    <img src="{{asset('/assets/img/extreme/program-1-1.jpg')}}"/>
+                                    <img src="{{asset($mainPoint.'assets/img/extreme/program-1-1.jpg')}}"/>
                                  </li>
                                  
                             </ul>

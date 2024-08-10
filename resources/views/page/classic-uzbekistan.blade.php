@@ -158,7 +158,7 @@
                                    <li>Chorsu bazaar</li>
                                    </ul>
                                    <p class="mb-0">Overnight in Tashkent</p>
-                                   <img src="{{asset('/assets/img/classic/classic-uzbekistan-1.jpg')}}"/>
+                                   <img src="{{asset($mainPoint.'assets/img/classic/classic-uzbekistan-1.jpg')}}"/>
                                 </li>
                                 <li>
                                     <h3>
@@ -185,7 +185,7 @@
                                     <li>Trading domes.</li>
                                     </ul>
                                     <p class="mb-0">Overnight in Tashkent</p>
-                                    <img src="{{asset('/assets/img/classic/classic-uzbekistan-2.jpg')}}"/>
+                                    <img src="{{asset($mainPoint.'assets/img/classic/classic-uzbekistan-2.jpg')}}"/>
                                  </li>
                                  <li>
                                     <h3>
@@ -209,7 +209,7 @@
                                     </ul>
                                     <p class="mb-0">Transfer to Samarkand by car (270 km). Arrival and hotel accommodation.
                                         Overnight in Samarkand.</p>
-                                    <img src="{{asset('/assets/img/classic/classic-uzbekistan-3.jpg')}}"/>
+                                    <img src="{{asset($mainPoint.'assets/img/classic/classic-uzbekistan-3.jpg')}}"/>
                                  </li>
                                  <li>
                                      <h3>
@@ -237,7 +237,7 @@
                                     <p class="mb-0">Transfer to the railway station, departure to Tashkent by high-speed train “Afrosiab” at 05.00pm Arrival at
                                         07.10pm and hotel accommodation.
                                         Overnight in Tashkent</p>
-                                    <img src="{{asset('/assets/img/classic/classic-uzbekistan-4.jpg')}}"/>
+                                    <img src="{{asset($mainPoint.'assets/img/classic/classic-uzbekistan-4.jpg')}}"/>
                                  </li>
                                  <li>
                                     <h3>
@@ -255,7 +255,7 @@
                                     <p class="mb-0">Breakfast at the hotel.</p>
                                     <p class="mb-0">Transfer to the airport.</p>
 
-                                    <img src="{{asset('/assets/img/classic/classic-uzbekistan-5.jpg')}}"/>
+                                    <img src="{{asset($mainPoint.'assets/img/classic/classic-uzbekistan-5.jpg')}}"/>
                                  </li>
 
                             </ul>

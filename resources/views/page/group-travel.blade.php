@@ -16,7 +16,7 @@
                 <a href="/{{ $key->url }}">
                 <div class="fancy-box content-box-heading-sm fancy-box-tour">
                     <figure class="fancy-box-image loaded">
-                        <img width="564" height="500" src="{{asset('/assets/img/'.$key->img.'.jpg')}}" alt="{{ $key->name }}">
+                        <img width="564" height="500" src="{{asset($mainPoint.'assets/img/'.$key->img.'.jpg')}}" alt="{{ $key->name }}">
                     </figure>
                     <div class="fancy-box-contents mt-0 pt-1">
                         <div class="fancy-box-header">

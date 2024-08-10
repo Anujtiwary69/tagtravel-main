@@ -1,4 +1,4 @@
-{{-- <section class=" fullheight" data-row-bg="{{asset('/assets/img/slider/'.$slider.'.jpg')}}?rand={{ rand() }}">
+{{-- <section class=" fullheight" data-row-bg="{{asset($mainPoint.'assets/img/slider/'.$slider.'.jpg')}}?rand={{ rand() }}">
 
 				<span class="row-bg-loader"></span>
 
@@ -25,7 +25,7 @@
 				<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active @if($slider=='gift-vouchers') mt-5 @endif">
-      <img class="d-block w-100" src="{{asset('/assets/img/slider/'.$slider.'.jpg')}}?rand={{ rand() }}" alt="{{ $slider }}">
+      <img class="d-block w-100" src="{{asset($mainPoint.'assets/img/slider/'.$slider.'.jpg')}}?rand={{ rand() }}" alt="{{ $slider }}">
     </div>
   </div>
 </div>

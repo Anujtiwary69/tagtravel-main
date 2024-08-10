@@ -62,7 +62,7 @@
                                 <p class="mb-0">Lunch at the national restaurant</p>
                                 <p><strong>Visit old part of city:</strong>an architectural complex Hazreti-Imam: Kaffal-Shashi mausoleum, Madrasah of Barak-Khan; Madrasah of Abdulkasym, Chorsu bazaar. </p>
                                 <p><b>Overnight in Tashkent.</b></p>
-                                <img src="{{asset('/assets/img/oriental/1.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/oriental/1.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -84,7 +84,7 @@
                                     />Lunch at the national house.&nbsp;<br /><strong>Continue excursion:</strong> Mausoleum of Makhmud Pakhlavan, Tash-Khovli Palace, Friday Mosque, Islam Khodja Ensemble, Madrasah of Khurdjum and Allakuli-Khan.&nbsp;<br
                                     /><strong>Overnight</strong>
                                     <strong>in</strong> <strong>Khiva</strong><strong>.</strong></p>
-                                <img src="{{asset('/assets/img/oriental/2.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/oriental/2.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -104,7 +104,7 @@
                                 <p>After breakfast we will drive to Bukhara via&nbsp;Kyzyl-Kum desert&nbsp;(480 km. 6-7 hrs.) On the way stop to see Amu-Darya river. Continue driving.<br /> Lunch at the local caf&eacute; in the desert.<br /> Arrival to&nbsp;Bukhara&nbsp;and
                                     hotel accommodation.
                                     <br /> <strong>Overnight in Bukhara.</strong></p>
-                                <img src="{{asset('/assets/img/oriental/3.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/oriental/3.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -128,7 +128,7 @@
                                 <p><strong>Continue excursion:</strong> Poi-Kalyan Ensemble (Madrasah and Minaret), Miri-Arab Madrasah, Magoki-Attori Mosque, trading domes.</p>
                                 <p><strong>Overnight</strong> <strong>in</strong>
                                     <strong>Bukhara</strong><strong>.</strong></p>
-                                <img src="{{asset('/assets/img/oriental/4.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/oriental/4.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -152,7 +152,7 @@
                                 <p>Transfer to Samarkand (90 km. 1,5 hrs.). Arrival to&nbsp;Samarkand&nbsp;and hotel accommodation.
                                 </p>
                                 <p><strong>Overnight in Samarkand.</strong></p>
-                                <img src="{{asset('/assets/img/oriental/5.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/oriental/5.jpg')}}" />
                             </li>
 
                             <li>
@@ -175,7 +175,7 @@
                                 <p><strong>Continue excursion:</strong> Observatory of Ulugbeg, Mausoleum of St. Daniel.
                                 </p>
                                 <p><strong>Overnight in Samarkand.</strong></p>
-                                <img src="{{asset('/assets/img/oriental/6.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/oriental/6.jpg')}}" />
                             </li>
 
                             <li>
@@ -202,7 +202,7 @@
                                 <p>Transfer to railway station, departure to Tashkent by high-speed train &ldquo;Afrosiab&rdquo; at 05.00 p.m. Arrival at 07.10 p.m. and hotel accommodation.
                                 </p>
                                 <p>Overnight in Tashkent.</p>
-                                <img src="{{asset('/assets/img/oriental/7.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/oriental/7.jpg')}}" />
                             </li>
 
                             <li>
@@ -222,7 +222,7 @@
                                 </h3>
                                 <p>Breakfast at the hotel. Check-out from the hotel till noon. Transfer to the airport.</p>
 
-                                <img src="{{asset('/assets/img/oriental/8.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/oriental/8.jpg')}}" />
                             </li>
 
 

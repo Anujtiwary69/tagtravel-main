@@ -65,7 +65,7 @@
                                     </ul>
                                     <p class="mb-0">Lunch at the national restaurant</p>
                                     <p><strong>Visit old part of city:</strong> an architectural complex Hazreti-Imam: Kaffal-Shashi mausoleum, Madrasah of Barak-Khan; Madrasah of Abdulkasym, Chorsu bazaar.</p>
-                                    <img src="{{asset('/assets/img/history-puzzles/1.jpg')}}" />
+                                    <img src="{{asset($mainPoint.'assets/img/history-puzzles/1.jpg')}}" />
                                 </li>
                                 <li>
                                     <h3>
@@ -84,7 +84,7 @@
                                     </h3>
                                     <p class="mb-0">After early breakfast we will drive to the airport for morning flight to Urgench. Arrival to Urgench transfer to Khiva (35 km).</p>
                                     <p><strong>Sightseeing</strong> <strong>tour</strong> in Ichan-Qala (a UNESCO World Heritage site). Ichan-Qala is open-air museum.&nbsp; We will visit: Muhammad Amin-Khan Madrasah, Kalta-Minor Minaret, Kunya-Ark fortress.<br />Lunch at the national house.&nbsp;<br /><strong>Continue excursion:</strong> Mausoleum of Makhmud Pakhlavan, Tash-Khovli Palace, Friday Mosque, Islam Khodja Ensemble, Madrasah of Khurdjum and Allakuli-Khan.&nbsp;<br /><strong>Overnight</strong> <strong>in</strong> <strong>Khiva</strong><strong>.</strong></p>
-                                    <img src="{{asset('/assets/img/history-puzzles/2.jpg')}}" />
+                                    <img src="{{asset($mainPoint.'assets/img/history-puzzles/2.jpg')}}" />
                                 </li>
                                 <li>
                                     <h3>
@@ -102,7 +102,7 @@
                                         </div>KHIVA – BUKHARA 
                                     </h3>
                                    <p>After breakfast we will drive to Bukhara via&nbsp;Kyzyl-Kum desert&nbsp;(480 km. 6-7 hrs.) On the way stop to see Amu-Darya river. Continue driving.<br /> Lunch at the local caf&eacute; in the desert.<br /> Arrival to&nbsp;Bukhara&nbsp;and hotel accommodation.<br /> <strong>Overnight in Bukhara.</strong></p>
-                                    <img src="{{asset('/assets/img/history-puzzles/3.jpg')}}" />
+                                    <img src="{{asset($mainPoint.'assets/img/history-puzzles/3.jpg')}}" />
                                 </li>
                                 <li>
                                     <h3>
@@ -120,7 +120,7 @@
                                         </div>BUKHARA 
                                     </h3>
                                    <p>Breakfast at the hotel.<br /><strong>Sightseeing tour:</strong> Samanids Mausoleum, Chashma-Ayub (Saint Job&rsquo;s Source), Ark citadel (residence of Bukhara khans), Lyabi Khauz ensemble.<br />Lunch at the national house with Master-class for cooking Uzbek Plov.<br /><strong>Continue excursion:</strong> Poi-Kalyan Ensemble (Madrasah and Minaret), Miri-Arab Madrasah, Magoki-Attori Mosque, trading domes.<br /><strong>Overnight</strong> <strong>in</strong> <strong>Bukhara</strong><strong>.</strong></p>
-                                    <img src="{{asset('/assets/img/history-puzzles/4.jpg')}}" />
+                                    <img src="{{asset($mainPoint.'assets/img/history-puzzles/4.jpg')}}" />
                                 </li>
                                 <li>
                                     <h3>
@@ -138,7 +138,7 @@
                                         </div>BUKHARA – NURATA
                                     </h3>
                                     <p>Breakfast at the hotel.<br />Transfer to the yurt camp in Nurata&nbsp;(250 km- 4 hrs). On the road you can see a unique petroglyphs. Arrival to the yurt camp. Camel ridding. Free time. Dinner. Bonfire evening under the sky full of stars. Overnight in the desert.<br /><strong>Overnight</strong> <strong>in</strong> <strong>the</strong> <strong>desert</strong><strong>.</strong></p>
-                                    <img src="{{asset('/assets/img/history-puzzles/5.jpg')}}" />
+                                    <img src="{{asset($mainPoint.'assets/img/history-puzzles/5.jpg')}}" />
                                 </li>
 
                                 <li>
@@ -157,7 +157,7 @@
                                         </div>NURATA – SAMARKAND 
                                     </h3>
                                    <p>Breakfast at the yurt camp.<br />Walk to Aydarkul lake.<br />Transfer to&nbsp;Samarkand&nbsp;(250 km-4 hrs). &nbsp;Arrival and hotel accommodation. <br /><strong>Overnight in Samarkand.</strong></p>
-                                    <img src="{{asset('/assets/img/history-puzzles/6.jpg')}}" />
+                                    <img src="{{asset($mainPoint.'assets/img/history-puzzles/6.jpg')}}" />
                                 </li>
 
                                 <li>
@@ -176,7 +176,7 @@
                                         </div>SAMARKAND 
                                     </h3>
                                   <p>Breakfast at the hotel.<br /><strong>Sightseeing tour:</strong> Gur-Emir Mausoleum&nbsp;(tomb of Amir Temur).<br />The main square - Registan: Ulugbeg, Sher-Dor and Tillya-Kari madrasahs.<br />Lunch at the national house.<br /><strong>Continue excursion:</strong> Observatory of Ulugbeg, Mausoleum of St. Daniel.<br /><strong>Overnight in Samarkand.</strong></p>
-                                    <img src="{{asset('/assets/img/history-puzzles/7.jpg')}}" />
+                                    <img src="{{asset($mainPoint.'assets/img/history-puzzles/7.jpg')}}" />
                                 </li>
 
                             </ul>

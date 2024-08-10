@@ -17,7 +17,7 @@
                 @if($key[0]!="")
                 <div class="fancy-box content-box-heading-sm fancy-box-tour">
                     <figure class="fancy-box-image loaded">
-                        <img width="564" height="500" src="{{asset('/assets/img/att/'.$key[0].'.jpg')}}" alt="Embrace The Wonders Of Japan 2017 Tour">
+                        <img width="564" height="500" src="{{asset($mainPoint.'assets/img/att/'.$key[0].'.jpg')}}" alt="Embrace The Wonders Of Japan 2017 Tour">
                     </figure>
                     <div class="fancy-box-contents mt-0 pt-1 pb-1">
                         <div class="fancy-box-header">

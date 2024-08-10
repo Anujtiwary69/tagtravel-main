@@ -1,5 +1,5 @@
 <section class="vc_row bg-cover  d-flex align-items-center py-8" data-parallax="true"
-					data-parallax-options='{"parallaxBG": true}' data-row-bg="{{asset('/assets/img/slider/mice.jpg')}}">
+					data-parallax-options='{"parallaxBG": true}' data-row-bg="{{asset($mainPoint.'assets/img/slider/mice.jpg')}}">
 
 					<span class="row-bg-loader"></span>
 

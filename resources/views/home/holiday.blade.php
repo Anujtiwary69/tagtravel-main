@@ -17,7 +17,7 @@
             <div class="lqd-column col-md-2">
                 <div class="circle-avatar">
                     <div class="">
-                       <img src="{{asset('/assets/img/icon/dia.png')}}" width="80"/>
+                       <img src="{{asset($mainPoint.'assets/img/icon/dia.png')}}" width="80"/>
                     </div>
                 </div>
                 <h5 class=" mt-3 text-dark text-center" style="line-height: 1;">Luxury Holidays</h5>
@@ -27,7 +27,7 @@
             <div class="lqd-column col-md-2">
                 <div class="circle-avatar">
                     <div class="">
-                        <img src="{{asset('/assets/img/icon/fam.png')}}" width="80"/>
+                        <img src="{{asset($mainPoint.'assets/img/icon/fam.png')}}" width="80"/>
                     </div>
                 </div>
                 <h5 class=" mt-3 text-dark text-center" style="line-height: 1;">Family Holidays</h5>
@@ -37,7 +37,7 @@
             <div class="lqd-column col-md-2">
                 <div class="circle-avatar">
                     <div class="">
-                        <img src="{{asset('/assets/img/icon/check.png')}}" width="80"/>
+                        <img src="{{asset($mainPoint.'assets/img/icon/check.png')}}" width="80"/>
                     </div>
                 </div>
                 <h5 class=" mt-3 text-dark text-center" style="line-height: 1;">All-inclusive Holidays</h5>
@@ -47,7 +47,7 @@
             <div class="lqd-column col-md-2">
                 <div class="circle-avatar">
                     <div class="">
-                        <img src="{{asset('/assets/img/icon/stopwatch.png')}}" width="80"/>
+                        <img src="{{asset($mainPoint.'assets/img/icon/stopwatch.png')}}" width="80"/>
                     </div>
                 </div>
                 <h5 class=" mt-3 text-dark text-center" style="line-height: 1;">Last Minute Holidays</h5>
@@ -57,7 +57,7 @@
             <div class="lqd-column col-md-2">
                 <div class="circle-avatar">
                     <div class="">
-                        <img src="{{asset('/assets/img/icon/moon.png')}}" width="80"/>
+                        <img src="{{asset($mainPoint.'assets/img/icon/moon.png')}}" width="80"/>
                     </div>
                 </div>
                 <h5 class=" mt-3 text-dark text-center" style="line-height: 1;">Honeymoons</h5>
@@ -67,7 +67,7 @@
                 <div class="lqd-column col-md-2">
                     <div class="circle-avatar">
                         <div class="">
-                            <img src="{{asset('/assets/img/icon/ring.png')}}" width="80"/>
+                            <img src="{{asset($mainPoint.'assets/img/icon/ring.png')}}" width="80"/>
                         </div>
                     </div>
                     <h5 class=" mt-3 text-dark text-center" style="line-height: 1;">Weddings</h5>

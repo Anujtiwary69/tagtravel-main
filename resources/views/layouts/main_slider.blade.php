@@ -7,7 +7,7 @@
 
                         <div class="carousel-item col-xs-12 px-0 mb-4">
                             <figure>
-                                <img class="lazyload" data-src="{{asset('/assets/img/slider/slider-1.jpg')}}" alt="Carousel Item">
+                                <img class="lazyload" data-src="{{asset($mainPoint.'assets/img/slider/slider-1.jpg')}}" alt="Carousel Item">
                             </figure>
                             <div class="carousel-caption ">
                                   <h5 class="mb-0">Turn moments into memories with </h5>
@@ -16,7 +16,7 @@
                         </div><!-- /.carousel-item -->
                         <div class="carousel-item col-xs-12 px-0 mb-4">
                             <figure>
-                                <img class="lazyload" data-src="{{asset('/assets/img/slider/slider-3.jpg')}}" alt="Carousel Item">
+                                <img class="lazyload" data-src="{{asset($mainPoint.'assets/img/slider/slider-3.jpg')}}" alt="Carousel Item">
                             </figure>
                             <div class="carousel-caption ">
                                 <h5 class="mb-0">Explore the extraordinary with Central Asia's Number One  </h5>
@@ -26,7 +26,7 @@
 
                         <div class="carousel-item col-xs-12 px-0 mb-4">
                             <figure>
-                                <img class="lazyload" data-src="{{asset('/assets/img/slider/slider-4.jpg')}}" alt="Carousel Item">
+                                <img class="lazyload" data-src="{{asset($mainPoint.'assets/img/slider/slider-4.jpg')}}" alt="Carousel Item">
                             </figure>
                             <div class="carousel-caption ">
                                 <h5 class="mb-0">Exceptional holidays with handpicked destinations and </h5>
@@ -36,7 +36,7 @@
 
                         <div class="carousel-item col-xs-12 px-0 mb-4">
                             <figure>
-                                <img class="lazyload" data-src="{{asset('/assets/img/slider/slider-2.jpg')}}" alt="Carousel Item">
+                                <img class="lazyload" data-src="{{asset($mainPoint.'assets/img/slider/slider-2.jpg')}}" alt="Carousel Item">
                             </figure>
                              <div class="carousel-caption ">
                                   <h5 class="mb-0">Lifechanging  experiences handcrafted  </h5>
@@ -45,7 +45,7 @@
                         </div><!-- /.carousel-item -->
                         <div class="carousel-item col-xs-12 px-0 mb-4">
                             <figure>
-                                <img class="lazyload" data-src="{{asset('/assets/img/slider/slider-5.jpg')}}" alt="Carousel Item">
+                                <img class="lazyload" data-src="{{asset($mainPoint.'assets/img/slider/slider-5.jpg')}}" alt="Carousel Item">
                             </figure>
                             <div class="carousel-caption ">
                                 <h5 class="mb-0">Find the trips of your lifetime   </h5>

@@ -1,18 +1,18 @@
 <!-- External JavaScripts
 	============================================= -->
-	<script src="{{asset('/assets/js/jquery.js')}}"></script>
-	<script src="{{asset('/assets/js/plugins.js')}}"></script>
+	<script src="{{asset($mainPoint.'assets/js/jquery.js')}}"></script>
+	<script src="{{asset($mainPoint.'assets/js/plugins.js')}}"></script>
 
 	<!-- Travel Demo Specific Script -->
-	<script src="{{asset('/assets/js/components/datepicker.js')}}"></script>
+	<script src="{{asset($mainPoint.'assets/js/components/datepicker.js')}}"></script>
 	<!-- / -->
 
 	<script src="https://maps.google.com/maps/api/js?key=YOUR_API_KEY"></script>
-	<script src="{{asset('/assets/js/jquery.gmap.js')}}"></script>
+	<script src="{{asset($mainPoint.'assets/js/jquery.gmap.js')}}"></script>
 
 	<!-- Footer Scripts
 	============================================= -->
-	<script src="{{asset('/assets/js/functions.js')}}"></script>
+	<script src="{{asset($mainPoint.'assets/js/functions.js')}}"></script>
 
 	<script>
 
@@ -33,7 +33,7 @@
 					{
 						address: "Melbourne, Australia",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -41,7 +41,7 @@
 					{
 						address: "Ibiza, Spain",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -49,7 +49,7 @@
 					{
 						address: "New York",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -57,7 +57,7 @@
 					{
 						address: "Rio de Janeiro, Brazil",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -65,7 +65,7 @@
 					{
 						address: "Moscow, Russia",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -73,7 +73,7 @@
 					{
 						address: "Rome, Italy",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -81,7 +81,7 @@
 					{
 						address: "New Delhi, India",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -89,7 +89,7 @@
 					{
 						address: "Bangkok, Thailand",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -97,7 +97,7 @@
 					{
 						address: "Dubai",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}
@@ -105,7 +105,7 @@
 					{
 						address: "Cape Town, South Africa",
 						icon: {
-							image: "{{asset('/assets/images/icons/map-icon-red.png')}}",
+							image: "{{asset($mainPoint.'assets/images/icons/map-icon-red.png')}}",
 							iconsize: [32, 39],
 							iconanchor: [16,36]
 						}

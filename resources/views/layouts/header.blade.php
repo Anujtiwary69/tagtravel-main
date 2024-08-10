@@ -73,11 +73,11 @@
                         <div class="navbar-header">
                             <a class="navbar-brand" href="/" rel="home">
                                 <span class="navbar-brand-inner">
-                                    <img class="logo-dark" src="{{asset('/assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
-                                    <img class="logo-light" src="{{asset('/assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
-                                    <img class="logo-sticky" src="{{asset('/assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
-                                    <img class="mobile-logo-default" src="{{asset('/assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
-                                    <img class="logo-default" src="{{asset('/assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
+                                    <img class="logo-dark" src="{{asset($mainPoint.'assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
+                                    <img class="logo-light" src="{{asset($mainPoint.'assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
+                                    <img class="logo-sticky" src="{{asset($mainPoint.'assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
+                                    <img class="mobile-logo-default" src="{{asset($mainPoint.'assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
+                                    <img class="logo-default" src="{{asset($mainPoint.'assets/img/Chortoq-Logotravels.png')}}" alt="Chortoq travels" width="110">
                                 </span>
                             </a>
                             <button type="button" class="navbar-toggle collapsed nav-trigger style-mobile"

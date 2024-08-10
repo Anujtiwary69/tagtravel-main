@@ -23,7 +23,7 @@
                 data-slideelement-options='{ "visibleElement": ".fancy-box-header", "hiddenElement": ".fancy-box-info" }'>
 
                     <figure class="fancy-box-image" data-responsive-bg="true">
-                        <img width="1550" height="1000"  src="{{asset('/assets/img/top/'.$key->id.'.jpg')}}?rand={{rand()}}" alt="{{ $key->name}}"  />
+                        <img width="1550" height="1000"  src="{{asset($mainPoint.'assets/img/top/'.$key->id.'.jpg')}}?rand={{rand()}}" alt="{{ $key->name}}"  />
                     </figure>
 
                     <div class="fancy-box-contents">

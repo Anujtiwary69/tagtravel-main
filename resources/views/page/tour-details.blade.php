@@ -76,7 +76,7 @@
                                 </div>{{ $key->name }}</h3>
                                  {!! $key->content !!}
                                  @if($key->img!="")
-                                   <img src="{{asset('/assets/img'.$key->img.'.jpg')}}"/>
+                                   <img src="{{asset($mainPoint.'assets/img'.$key->img.'.jpg')}}"/>
                                    @endif
                                 </li>
                                @endforeach

@@ -158,7 +158,7 @@
                                 <p>-&nbsp;Amir Temur Square;<br /> -&nbsp;Independence Square;<br /> - Tashkent Metro.<br /> <br /><strong>The old part of the city:</strong><br /> -&nbsp;The architectural complex Khazret-Imam: Kaffal-Shashi mausoleum, Madrasah
                                     of Barak-Khan;<br /> -&nbsp;Juma Mosque&nbsp;(15-19<sup>th</sup>&nbsp;cc.) - the third biggest mosque in Uzbekistan;<br /> -&nbsp;Kukeldash Madrassah;<br /> -&nbsp;Chorsu bazaar.</p>
                                 <p>Overnight in Tashkent.</p>
-                                <img src="{{asset('/assets/img/8day/1.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/8day/1.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -179,7 +179,7 @@
                                 <p>Sightseeing tour in<strong>&nbsp;Ichan-Qala</strong>&nbsp;(a UNESCO World Heritage site).<strong>&nbsp;Ichan-Qala</strong>&nbsp;is open-air museum. &nbsp;</p>
                                 <p>We will visit&nbsp;<strong>Muhammad Amin-Khan Madrasah, Kalta-Minor Minaret, Kunya-Ark fortress, Mausoleum of Makhmud Pakhlavan, Tash-Khovli Palace, Friday Mosque, Islam Khodja Ensemble, Madrasah of Khurdjum and Allakuli-Khan.</strong>&nbsp;&nbsp;</p>
                                 <p>Overnight in Khiva.</p>
-                                <img src="{{asset('/assets/img/8day/2.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/8day/2.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -197,7 +197,7 @@
                                     </div>Khiva - Bukhara
                                 </h3>
                                 <p>After breakfast we will drive to Bukhara via&nbsp;<strong>Kyzyl-Kum</strong>&nbsp;desert (480 km. 6-7 hrs.)<br />On the way stop to see Amu-Darya river.<br />Arrival to Bukhara and hotel accommodation. Free time.<br /><strong>Overnight in Bukhara.</strong></p>
-                                <img src="{{asset('/assets/img/8day/3.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/8day/3.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -223,7 +223,7 @@
                                 <p>-&nbsp;Poi-Kalyan Ensemble&nbsp;(Madrasah and Minaret), Miri-Arab Madrasah,</p>
                                 <p>- Magoki-Attori Mosque, trading domes.</p>
                                 <p><strong>Overnight in Bukhara.</strong></p>
-                                <img src="{{asset('/assets/img/8day/4.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/8day/4.jpg')}}" />
                             </li>
                             <li>
                                 <h3>
@@ -245,7 +245,7 @@
                                 <p>- Sitorai Mokhi-Khosa Palace (the residence of the Emir of Bukhara),<br /> - Chor-Bakr Necropolis.</p>
                                 <p>Transfer to Samarkand (270 km). On the way stop in&nbsp;<strong>Gijduvan&nbsp;</strong>city. Visit&nbsp;<strong>ceramic </strong><strong>workshop</strong>. Continue driving to Samarkand, arrival and hotel accommodation.</p>
                                 <p><strong>Overnight in Samarkand</strong>.</p>
-                                <img src="{{asset('/assets/img/8day/5.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/8day/5.jpg')}}" />
                             </li>
 
                             <li>
@@ -268,7 +268,7 @@
                                 <p>-&nbsp;Gur-Emir Mausoleum&nbsp;(tomb of Amir Temur),<br /> - The main square -&nbsp;Registan: Ulugbeg, Sher-Dor and Tillya-Kari madrasahs,<br /> -&nbsp;Bibi-Khanym Mosque,<br /> - Siab bazaar &ndash; oriental market,<br
                                     /> -&nbsp;Observatory of Ulugbeg,<br /> - Mausoleum of St. Daniel.</p>
                                 <p><strong>Overnight in Samarkand</strong></p>
-                                <img src="{{asset('/assets/img/8day/6.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/8day/6.jpg')}}" />
                             </li>
 
                             <li>
@@ -291,7 +291,7 @@
                                 <p>Visit&nbsp;<strong>Shakhi Zinda necropolis&nbsp;</strong>- unique architectural monuments.</p>
                                 <p>Transfer to railway station, departure to Tashkent by&nbsp;<strong>high-speed train &ldquo;Afrosiab&rdquo;</strong>&nbsp;at 05.00 p.m.</p>
                                 <p>Arrival at 07.10 p.m. and hotel accommodation. Overnight in Tashkent.</p>
-                                <img src="{{asset('/assets/img/8day/7.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/8day/7.jpg')}}" />
                             </li>
 
                             <li>
@@ -312,7 +312,7 @@
                                 <p>Breakfast at the hotel. Check-out from the hotel till noon.</p>
                                 <p>Transfer to the airport.</p>
 
-                                <img src="{{asset('/assets/img/8day/8.jpg')}}" />
+                                <img src="{{asset($mainPoint.'assets/img/8day/8.jpg')}}" />
                             </li>
 
                         </ul>

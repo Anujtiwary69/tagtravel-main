@@ -22,7 +22,7 @@
                     data-slideelement-options='{ "visibleElement": ".fancy-box-header", "hiddenElement": ".fancy-box-info" }'>
 
                         <figure class="fancy-box-image" data-responsive-bg="true">
-                            <img width="1550" height="1000" src="{{asset('/assets/img/des/'.$key[0].'.jpg')}}" alt="{{ $key[1] }}" />
+                            <img width="1550" height="1000" src="{{asset($mainPoint.'assets/img/des/'.$key[0].'.jpg')}}" alt="{{ $key[1] }}" />
                         </figure>
 
                         <div class="fancy-box-contents">

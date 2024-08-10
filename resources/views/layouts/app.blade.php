@@ -1,7 +1,11 @@
 <!DOCTYPE html>
+
 <html lang="en">
 
 	<head>
+		@php
+    		$mainPoint = config('app.env') === 'production' ? '/public/' : '/';
+		@endphp
         @include('layouts.head')
 		<style>
 			/* Initially, hide the header */
@@ -25,6 +29,10 @@
 	<body data-mobile-nav-trigger-alignment="right" data-mobile-nav-align="left" data-mobile-nav-style="modern"
 		data-mobile-nav-shceme="gray" data-mobile-header-scheme="gray" data-mobile-nav-breakpoint="1199">
 
+		@php
+    		$mainPoint = config('app.env') === 'production' ? '/public/' : '/';
+		@endphp
+
 		<div id="wrap">
 
 			@include('layouts.header',['menu'=>$menu])
@@ -40,11 +48,11 @@
 
 		</div><!-- /#wrap -->
 
-		<script src="{{asset('/assets/vendors/jquery.min.js')}}"></script>
-		<script src="{{asset('/assets/js/theme-vendors.js')}}"></script>
-		<script src="{{asset('/assets/js/theme.min.js')}}"></script>
-        <script src="{{asset('/assets/js/liquidAjaxMailchimp.min.js')}}"></script>
-        <script src="{{asset('/assets/lazysizes.min.js')}}" async></script>
+		<script src="{{asset($mainPoint.'assets/vendors/jquery.min.js')}}"></script>
+		<script src="{{asset($mainPoint.'assets/js/theme-vendors.js')}}"></script>
+		<script src="{{asset($mainPoint.'assets/js/theme.min.js')}}"></script>
+        <script src="{{asset($mainPoint.'assets/js/liquidAjaxMailchimp.min.js')}}"></script>
+        <script src="{{asset($mainPoint.'assets/lazysizes.min.js')}}" async></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $(document).ready(function() {

@@ -89,7 +89,7 @@
                                   <div class="row">
                                       <div class="col text-right">
                                             <h4 class="upcoming-weather text-dark">@lang('home.Driving Directions') </h4>
-                                            <h6 class="text-dark"><b></b>@lang('home.LEVA Hotels & Resorts')</h6>
+                                            
                                             <p class="text-dark">@lang('home.address')
                                                     .</p>
                                       </div>
