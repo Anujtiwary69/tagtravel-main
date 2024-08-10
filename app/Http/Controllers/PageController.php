@@ -9,7 +9,7 @@ class PageController extends Controller
 {
     public function __construct()
     {
-        $this->menu = array("HOME","HOLIDAY","TOP TOURS","MICE","OFFERS","DESTINATIONS","HOTELS","GIFT VOUCHERS");
+        $this->menu = array("HOME","HOLIDAY","TOP TOURS","MICE","OFFERS","HOTELS","GIFT VOUCHERS");
         $this->top = array(
             1=>array('1','Historical Tours in Uzbekistan'),
             2=>array('2','Extreme & Adventure Tours in Uzbekistan'),

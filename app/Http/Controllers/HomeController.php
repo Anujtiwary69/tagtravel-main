@@ -9,7 +9,7 @@ class HomeController extends Controller
 {
     public function __construct()
     {
-        $this->menu = array("HOME","HOLIDAY","TOP TOURS","MICE","OFFERS","DESTINATIONS","HOTELS","GIFT VOUCHERS");
+        $this->menu = array("HOME","HOLIDAY","TOP TOURS","MICE","OFFERS","HOTELS","GIFT VOUCHERS");
        
         $this->top_att = array(
                 1=>array('1','Registan in Samarkand <span style="visibility: hidden;">Samarkand</span>','Registan in Samarkand',''),

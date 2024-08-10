@@ -19,7 +19,7 @@
 
             </div><!-- /.lqd-column col-md-8 col-md-offset-2 -->
 
-            @include('component.sub_tour',['path'=>'medical'])
+            {{-- @include('component.sub_tour',['path'=>'medical']) --}}
 
 
     </div><!-- /.row -->

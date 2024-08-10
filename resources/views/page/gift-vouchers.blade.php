@@ -16,7 +16,8 @@
 
         </div><!-- /.row -->
         <div class="row">
-         <h6 style="line-height:1;">Please complete the following form or call +(998 78) 150-35-53 or +(998 78) 150-36-63 to request a gift certificate. A Chortoq travels representative will contact you within one business day to confirm your request and process payment.</h6>
+         <h6 style="line-height:1;">Please complete the following form or call 
+          +998950998080 to request a gift certificate. A Chortoq travels representative will contact you within one business day to confirm your request and process payment.</h6>
          <div class="lqd-column-inner bg-white border-radius-6 px-3 px-md-4 pt-40 pb-40">
 
 								<header class="fancy-title mb-1">

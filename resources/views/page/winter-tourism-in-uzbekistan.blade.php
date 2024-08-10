@@ -19,7 +19,7 @@ The country has great potential for skiing with three mastered ski resorts: Beld
 
             </div><!-- /.lqd-column col-md-8 col-md-offset-2 -->
 
- @include('component.sub_tour')
+ @include('component.sub_tour',['path'=>'winter'])
 
 
 

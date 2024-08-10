@@ -70,7 +70,7 @@ ion-icon {
                         </div><!-- /.lqd-column col-md-6 -->
                         <div class="lqd-column col-md-3">
                             <ul class="lqd-custom-menu reset-ul font-size-13 lh-2">
-                                <li><a href="/destinations">Destinations </a></li>
+                                {{-- <li><a href="/destinations">Destinations </a></li> --}}
                                 <li><a href="/hotels">Hotels</a></li>
                                 <li><a href="/tailor-made-itineraries">Tailor-Made Itineraries</a></li>
                                 <li><a href="/traveller-information">Traveller Information</a></li>

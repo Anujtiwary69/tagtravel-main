@@ -8,7 +8,7 @@ use DB;
 class AllPagesController extends Controller
 {
     public function index(Request $request){
-        $this->menu = array("HOME","HOLIDAY","TOP TOURS","MICE","OFFERS","DESTINATIONS","HOTELS","GIFT VOUCHERS");
+        $this->menu = array("HOME","HOLIDAY","TOP TOURS","MICE","OFFERS","HOTELS","GIFT VOUCHERS");
         $data['content']= DB::table('pages')->where('url',$request->path())->first();
         if($data['content']->subpage){
             $data['subpage'] = DB::table('subpage')->where('page_id',$data['content']->id)->get();
