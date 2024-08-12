@@ -64,7 +64,7 @@ ion-icon {
                             <ul class="lqd-custom-menu reset-ul font-size-13 lh-2">
                                 <li><a href="/attractions">Attractions</a></li>
                                 <li><a href="/mice">MICE Travel</a></li>
-                                <li><a href="/group-travel">Group Travel</a></li>
+                                <li><a href="/top-tours/group-travel">Group Travel</a></li>
                                 <li><a href="/offers">Special Offers</a></li>
                             </ul>
                         </div><!-- /.lqd-column col-md-6 -->

@@ -192,7 +192,9 @@
     <!-- /.container -->
     <div class="row contact-form col-12 col-md-offset-6">
         <div class="col-md-2 text-md-right input-filled">
-            <input type="submit" value="Get a Quote">
+            <form action="mailto:CESC@grandchortoqresort.com" method="POST" enctype="text/plain">
+                <input type="submit" value="Get a Quote">
+            </form>
         </div>
     </div>
 </section>
